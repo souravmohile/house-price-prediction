@@ -4,4 +4,4 @@ This project is based on the 2nd chapter "End-to-end machine learning project" f
 
 In the original project the focus is to predict the prices of houses in LA.
 
-In this project we apply the same and some additional techniques for predicting the house prices in Mumbai, using the original as well as some new methods
+In this project we apply the same and some additional techniques for predicting the house prices in Mumbai, using the original as well as some new methods.
